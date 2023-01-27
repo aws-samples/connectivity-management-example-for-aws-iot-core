@@ -1,4 +1,4 @@
-# Connectivity Management Example for AWS IoT Core
+# Connectivity Management Example for AWS IoT Core ![build status](https://github.com/aws-samples/connectivity-management-example-for-aws-iot-core/actions/workflows/build.yml/badge.svg)
 
 This is a sample solution for managing the connectivity status of devices connected to AWS IoT Core.
 
