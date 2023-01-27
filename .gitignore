@@ -1,2 +1,6 @@
 lambda_function.zip
+
 .DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
