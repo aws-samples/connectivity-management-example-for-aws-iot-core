@@ -86,6 +86,7 @@ aws cloudformation list-stack-resources --region ${REGION} --stack-name IoTLifeC
 
 - Delete `IoTLifeCycleEventStack` CloudFormation stack
 - Delete `/aws/lambda/LifeCycleEvent` CloudWatch log group
+- Delete S3 bucket you've created in the setup process
 
 ## Security
 
